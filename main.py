@@ -1,1 +1,1 @@
-print("ITO, GO!")
+print("ITO, GOです!")
